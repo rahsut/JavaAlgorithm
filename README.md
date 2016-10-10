@@ -51,7 +51,7 @@ This method retains original order of the integer array.
 		 
  Advantages:
 		  1.) Code is simple.
-		  2.) Retains Insertion Order
+		  2.) Retains Insertion Order since arraylist can maintain the insertion order and duplicate value are not inserted by the logic in the method.
 		  
 	Disadvantages:		  
 		  1.) Time complexity is o(n^2) for insertion.
