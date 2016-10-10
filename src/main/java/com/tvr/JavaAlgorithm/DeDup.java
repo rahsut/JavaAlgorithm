@@ -1,7 +1,7 @@
 package com.tvr.JavaAlgorithm;
 
 /**
- * Hello world!
+ * @author Rahsut
  *
  */
 public class DeDup 

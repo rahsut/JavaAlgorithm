@@ -7,7 +7,7 @@ import junit.framework.TestCase;
 
 
 /**
- * @author Tushar
+ * @author Rahsut
  *
  */
 public class DupRemoverTest extends TestCase {

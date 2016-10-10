@@ -7,6 +7,10 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * @author Rahsut
+ *
+ */
 public class DupRemover {
 
 
@@ -66,7 +70,7 @@ public class DupRemover {
 	 * public int[] remDuplHashSet(int[] randArray)
 	 * Remove Duplicates from the array by using HashSet.
 	 * Advantages:
-	 * 1.)code is more simple as.
+	 * 1.)code is more simple as as uses collection framework API(HashSet) to do bulk of work.
 	 * 2.) performance better than linkedhashset
 	 * 
 	 * DisAdvantages:
