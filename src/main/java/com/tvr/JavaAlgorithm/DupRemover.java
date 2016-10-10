@@ -13,7 +13,7 @@ public class DupRemover {
 
 	
 	/**
-	 * public void remDuplN2(int[] inputRandomIntegers)
+	 * public int[] remDuplN2(int[] inputRandomIntegers)
 	 * Advantages:
 	 * 1.) Simpler Logic	 * 
 	 * DisAdvantages:
@@ -64,11 +64,10 @@ public class DupRemover {
 
 	/**
 	 * public int[] remDuplHashSet(int[] randArray)
-	 * Remove duplicates by looping through array and assigning unique value to new array.
-	 * This method retains original order of the integer array. 
+	 * Remove Duplicates from the array by using HashSet.
 	 * Advantages:
-	 * 1.)code is more simple.
-	 * 2.) time complexity better than linked hashset
+	 * 1.)code is more simple as.
+	 * 2.) performance better than linkedhashset
 	 * 
 	 * DisAdvantages:
 	 * 
